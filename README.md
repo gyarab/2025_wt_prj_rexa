@@ -1,10 +1,10 @@
-# Gladiator
+# Minecraft Gladiator
 
 > Význam jména - *Gladiátor* - profesionální bojovník, který za účelem pobavení publika zápasil v arénách s jinými gladiátory nebo divokými zvířaty.
 
 ## Odborný článek
 
-Gladiator je komplexní metodika pro optimalizaci vašeho bojového stylu. Jejím účelem je systematický trénink mechanik, kategorizace taktik podle typu souboje (např. PotPvP, Nodebuff, Bedwars) a následná analytická zpětná vazba pro zlepšení vašich výsledků.
+Gladiator je místo pro optimalizaci vašeho bojového stylu v minecraftu. Jejím účelem je postupný trénink mechanik, kategorizace taktik podle typu souboje (např. PotPvP, Mace, Uhc, Smp).
 
 ### Funkce
 
