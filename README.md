@@ -8,11 +8,8 @@ Gladiator je místo pro optimalizaci vašeho bojového stylu v minecraftu. Její
 
 ### Funkce
 
-#### Analytika
-Každý uživatel je schopen nechat proběhnout analýzu svého výkonu. Ostatní uživatelé budou moct ohodnotit, analyzovat a kritizovat kvalitu nahraného výkonu.
-
 #### Sdílení nastavení
-Uživatel může vygenerovat konfigurační profil, pomocí kterého může sdílet své nastavení (keybindy, sensitivity, crosshair design) se všemi uživateli.
+Uživatel může vygenerovat konfigurační profil, pomocí kterého může sdílet své nastavení (keybindy, sensitivita myši, crosshair design) se všemi uživateli. Stačí jen jít do své .minecraft složky, najít options.txt a vložit celá svá nastavení, poté jen manuálně napsat jaké itemy používáte v každém hotbar slotu.
 
 #### Řazení taktik
 Uživatelé budou moct nahrát různé taktiky (např. stun slam, shield drain, atd.). Poté je můžou uživatelé ohodnotit pětihvězdičkovým systémem. Samotné strategie budou poté řazeny do kategorií, do kterých patří.
