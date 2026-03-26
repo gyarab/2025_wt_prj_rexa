@@ -27,9 +27,6 @@ Soutěžící využívá pokročilou analytiku pro ladění svého stylu. Je sch
 
 ## Nastavení a Konfigurace
 
-Gladiator je koncipován jako soubor standardizovaných profilů pro rychlou aplikaci.
-
-### CLI (Command Line Interface)
 
 ```bash
 # Názorná ukázka sdílení nastavení:
