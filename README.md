@@ -13,6 +13,7 @@ Uživatel může vygenerovat konfigurační profil, pomocí kterého může sdí
 
 #### Řazení taktik
 Uživatelé budou moct nahrát různé taktiky (např. stun slam, shield drain, atd.). Poté je můžou uživatelé ohodnotit pětihvězdičkovým systémem. Samotné strategie budou poté řazeny do kategorií, do kterých patří.
+Nahrávky videí obsahujících taktiky budou ve formě odkazu. (např. youtube, medal.tv, atd.)
 
 ### Role
 
