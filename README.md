@@ -26,11 +26,18 @@ Soutěžící využívá pokročilou analytiku pro ladění svého stylu. Je sch
 #### Profík (Pro)
 Účet Taktika je určen pro lídry klanů. Může spravovat sdílené taktické dokumenty pro celý tým, definovat globální pravidla pro "hotbar" layouty a provádět týmové přehledy.
 
+## ER-D
+
+![IMG_20260327_010223](https://github.com/user-attachments/assets/3118b9c6-4b35-46ea-986f-583a158dd7da)
+
+
 ## Nastavení a Konfigurace
+
 
 
 ```bash
 # Názorná ukázka sdílení nastavení:
+
 
 
 Kategorie = mace
