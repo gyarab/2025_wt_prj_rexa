@@ -1,0 +1,21 @@
+# Minecraft Options Sample for Parser Testing
+version:4671
+ao:true
+fov:1.0
+maxFps:260
+renderDistance:10
+mouseSensitivity:0.5140845070422535
+key_key.attack:key.mouse.left
+key_key.use:key.mouse.right
+key_key.forward:key.keyboard.w
+key_key.left:key.keyboard.a
+key_key.back:key.keyboard.s
+key_key.right:key.keyboard.d
+key_key.jump:key.keyboard.space
+key_key.sneak:key.keyboard.left.shift
+key_key.sprint:key.keyboard.page.up
+key_key.swapOffhand:key.keyboard.2
+key_key.hotbar.1:key.keyboard.1
+key_key.hotbar.2:key.mouse.4
+key_key.hotbar.5:key.keyboard.f
+resourcePacks:["vanilla","file/CustomPvP.zip"]
