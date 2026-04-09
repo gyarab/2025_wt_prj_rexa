@@ -1,1 +1,7 @@
-
+# id | username | role | join_date
+1 | Technoblade_Fan | Pro | 2024-01-15
+2 | ShadowStep | Intermediate | 2024-02-20
+3 | SteveTheNoob | Noob | 2024-03-01
+4 | PvP_God_CZ | Pro | 2024-01-02
+5 | MineCrafter99 | Noob | 2024-03-10
+6 | ComboMaster | Intermediate | 2024-02-28
