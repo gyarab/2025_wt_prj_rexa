@@ -1,1 +1,18 @@
+# profile_id | category | slots
+ID: 101 | Category: Mace
+slot_1: breach mace | slot_2: wind charge | slot_3: density mace
+slot_4: golden apple | slot_5: shield | slot_6: elytra
+slot_7: ender pearl | slot_8: sword | slot_9: axe
+offhand: totem of undying
 
+ID: 102 | Category: PotPvP
+slot_1: diamond sword | slot_2: ender pearl | slot_3: healing potion
+slot_4: healing potion | slot_5: healing potion | slot_6: fire res
+slot_7: speed potion | slot_8: steak | slot_9: wood planks
+offhand: shield
+
+ID: 103 | Category: UHC
+slot_1: iron axe | slot_2: iron sword | slot_3: bow
+slot_4: water bucket | slot_5: golden head | slot_6: lava bucket
+slot_7: cobblestone | slot_8: arrows | slot_9: fishing rod
+offhand: torch
