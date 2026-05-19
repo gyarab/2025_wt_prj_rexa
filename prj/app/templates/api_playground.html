@@ -1,0 +1,48 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+<h1>API Playground</h1>
+
+<p>
+    Tlačítko zavolá Django API endpoint pomocí fetch().
+</p>
+
+<button id="load-btn">Načíst taktiky</button>
+
+<div id="output"></div>
+
+<script>
+    const button = document.getElementById("load-btn")
+    const output = document.getElementById("output")
+
+    button.addEventListener("click", async () => {
+
+        output.innerHTML = "Načítám data..."
+
+        try {
+            const response = await fetch('/api/taktiky/')
+          
+            const data = await response.json()
+
+            output.innerHTML = ""
+
+            data.forEach(taktika => {
+                output.innerHTML += `
+                    <div style="border:1px solid gray; padding:10px; margin:10px 0;">
+                        <h3>${taktika.name}</h3>
+                        <p>Difficulty: ${taktika.difficulty}</p>
+                        <p>Effectivity: ${taktika.effectivity}</p>
+                        <p>Usefulness: ${taktika.usefulness}</p>
+                    </div>
+                `
+            })
+
+        } catch (error) {
+            output.innerHTML = "Chyba při načítání dat"
+            console.error(error)
+        }
+    })
+</script>
+
+{% endblock %}
