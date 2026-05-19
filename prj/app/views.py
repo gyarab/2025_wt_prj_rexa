@@ -3,7 +3,6 @@ from django.http import JsonResponse
 from .models import Taktika
 
 
-# HTML stránky
 
 def render_homepage(request):
     return render(request, "home.html")
@@ -17,7 +16,6 @@ def render_api_playground(request):
     return render(request, "api_playground.html")
 
 
-# API endpoint
 
 def taktiky_api(request):
     taktiky = Taktika.objects.all()
